@@ -5,10 +5,9 @@ This project implements a concise Parisian travel information retrieval system u
 # ParisianPathfinder: Your Concise AI Travel Guide to Paris
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python](http://googleusercontent.com/image_generation_content/1)](https://www.python.org/)
-[![OpenAI](http://googleusercontent.com/image_generation_content/2)](https://platform.openai.com/)
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 
-**Embark on a virtual tour of the City of Lights with ParisianPathfinder!** This repository showcases a Python script that leverages the power of the OpenAI API (specifically the `gpt-3.5-turbo` model) to provide concise and informative answers to common tourist questions about iconic landmarks in Paris.
+This repository showcases a Python script that leverages the power of the OpenAI API (specifically the `gpt-3.5-turbo` model) to provide concise and informative answers to common tourist questions about iconic landmarks in Paris.
 
 ## Overview
 
